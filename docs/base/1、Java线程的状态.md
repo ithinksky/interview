@@ -36,7 +36,7 @@ Thread.sleep 和 Object.wait、 Thread.join、 Lock,tryLock 以及 Condition.awa
 
 > 1、因为 run 方法正常退出而自然死亡。
 
-> 2、因为一个没有捕获的异常终止了 nm 方法而意外死亡。
+> 2、因为一个没有捕获的异常终止了 run 方法而意外死亡。
 
 
 #### 线程状态之间的转换
