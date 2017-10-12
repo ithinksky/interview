@@ -21,3 +21,15 @@
 1.MQ的使用
 
 2.Rest的理解
+
+## 框架知识 framework
+
+### Spring 
+
+### MyBatis 
+
+## 性能调优 optimization 
+
+1.SQL 调优
+
+2.JVM 调优
