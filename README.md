@@ -16,6 +16,8 @@
 
 6.索引
 
+7.两种比较器Comparable和Comparator
+
 ## 进阶知识
 
 1.MQ的使用
